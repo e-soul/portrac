@@ -62,7 +62,7 @@ void Preferences::load()
 	else
 	{
 		// initialise default values
-		preferencesMap[INDEX_PREF] = "http://www.freebsd.org/ports/INDEX-10.bz2";
+		preferencesMap[INDEX_PREF] = "http://www.freebsd.org/ports/INDEX-14.bz2";
 		preferencesMap[CHECK_INTERVAL_PREF] = "3";
 	}
 }
