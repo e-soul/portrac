@@ -31,6 +31,8 @@
 #include <string>
 #include <algorithm>
 #include <iostream>
+#include <cstdio>
+#include <cerrno>
 
 #include <QStringList>
 

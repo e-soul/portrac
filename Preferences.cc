@@ -29,6 +29,7 @@
 #include <map>
 #include <iostream>
 #include <fstream>
+#include <cstdlib>
 
 #include "Preferences.hh"
 
