@@ -1,0 +1,78 @@
+#wrapper
+{
+	width: 650px;
+	margin: 0 auto;
+}
+
+#menu_wrapper
+{
+	text-align: center;
+}
+
+.menu_element
+{
+	width: 100px;
+	height: 100px;
+	background-color: #749ebf;
+	margin: 1px;
+	padding: 1px 20px 1px 20px;
+	display: inline;
+}
+
+.menu_element a:hover
+{
+	font-weight: bold;
+	color: white;
+}
+
+.menu_link
+{
+	text-decoration: none;
+	color: white;
+}
+
+#content
+{
+	width: 700px;
+	height: 600px;
+	border-color: #749ebf;
+	border-style: solid;
+	border-width: 1px;
+	padding: 10px;
+}
+
+img.logo_small
+{
+	padding: 5px;
+	float: left;
+}
+
+#banners
+{
+	text-align: center;
+	width: 640px;
+	padding: 10px;
+}
+
+img.banner
+{
+	border: 0px;
+}
+
+p.service
+{
+	color: #749ebf;
+	font-weight: bold;
+}
+
+p
+{
+	font-size: 110%;
+}
+
+a
+{
+	text-decoration: underline;
+	color: #749ebf;
+}
+
